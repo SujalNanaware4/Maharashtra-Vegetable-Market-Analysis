@@ -48,4 +48,4 @@ Dashboard Highlights-
 - District-wise analysis visuals
 
 Screenshor-
-https://github.com/SujalNanaware4/Maharashtra-Vegetable-Market-Analysis/blob/main/Maharashtra%20Vegetable%20Market%20Analysis.png
+https://github.com/SujalNanaware4/Maharashtra-Vegetable-Market-Analysis/blob/main/Price%20trend.png
